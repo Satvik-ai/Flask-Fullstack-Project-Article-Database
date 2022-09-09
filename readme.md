@@ -31,18 +31,7 @@ built using flask framework having a SQLite database and SQLAlchemy is the packa
 │   ├── controllers.py
 │   ├── database.py
 │   ├── __init__.py
-│   ├── models.py
-│   └── __pycache__
-│       ├── config.cpython-36.pyc
-│       ├── config.cpython-37.pyc
-│       ├── controllers.cpython-36.pyc
-│       ├── controllers.cpython-37.pyc
-│       ├── database.cpython-36.pyc
-│       ├── database.cpython-37.pyc
-│       ├── __init__.cpython-36.pyc
-│       ├── __init__.cpython-37.pyc
-│       ├── models.cpython-36.pyc
-│       └── models.cpython-37.pyc
+│   └── models.py
 ├── db_directory
 │   └── test.db
 ├── local_run.sh
