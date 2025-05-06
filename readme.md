@@ -1,18 +1,30 @@
-### About Project 
+# 📰 Read Articles — Fullstack Flask Web App
 
-This is a skill demonstration project.
+**Read Articles** is a full-stack web application built with the Flask framework. It displays articles stored in a SQLite database and follows a clean, modular project structure. This project serves as a skill demonstration of backend setup, templating, ORM integration with SQLAlchemy, and using poetry for environment and dependency management.
 
-I have setup a fullstack web application project following the FLASK project structure. It is a simple fullstack web application 
-built using flask framework having an SQLite database. SQLAlchemy is used for facilitating the communication between the application and the database. This application displays the list of articles present in the database.
+---
 
-# Local Setup
+## 🛠️ Tech Stack
+
+- **Backend**: Python, Flask
+- **Database**: SQLite (via SQLAlchemy ORM)
+- **Frontend**: HTML, CSS, Bootstrap
+- **Tooling**: Poetry, Virtualenv
+
+---
+
+## ⚙️ Local Setup
 - Clone the project
 - Run `setup.sh`
 
-# Local Development Run
+---
+
+## ▶️ Local Development Run
 - `local_run.sh` It will start the flask app in `development`. Suited for local development
 
-# Folder Structure
+---
+
+## 📂 Folder Structure
 
 - `db_directory` has the sqlite DB. It can be anywhere on the machine. Adjust the path in ``application/config.py`. Repo ships with one required for testing.
 - `application` is where our application code is
