@@ -9,7 +9,7 @@
 - **Backend**: Python, Flask
 - **Database**: SQLite (via SQLAlchemy ORM)
 - **Frontend**: HTML, CSS, Bootstrap
-- **Tooling**: Poetry, Virtualenv
+- **Tooling**: Virtualenv
 
 ---
 
