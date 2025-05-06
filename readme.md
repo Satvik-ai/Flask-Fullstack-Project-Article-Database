@@ -1,6 +1,6 @@
 # 📰 Read Articles — Fullstack Flask Web App
 
-**Read Articles** is a full-stack web application built with the Flask framework. It displays articles stored in a SQLite database and follows a clean, modular project structure. This project serves as a skill demonstration of backend setup, templating, ORM integration with SQLAlchemy, and using poetry for environment and dependency management.
+**Read Articles** is a full-stack web application built with the Flask framework. It displays articles stored in a SQLite database and follows a clean, modular project structure. This project serves as a skill demonstration of backend setup, templating, and ORM integration with SQLAlchemy.
 
 ---
 
